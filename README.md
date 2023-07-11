@@ -13,4 +13,4 @@ If user not found, an alert message will be displayed which will disappear after
 
 Api Used : https://api.github.com/user/user_name
 
-Live Link : 
+Live Link : https://neha47.github.io/Github_Profile_finder/
